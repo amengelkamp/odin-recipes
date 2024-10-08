@@ -1,0 +1,1 @@
+Hallo! In diesem Projekt baue ich meine erste Webpage. Sie umfasst eine Oberseite mit allen gelisteten Rezepten sowie diverse Rezepte. Ich habe so auch die Verlinkung von Webseiten untereinander sowie das Bauen von Listen und Einfügen von Bildern üben können.
