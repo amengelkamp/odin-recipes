@@ -1,6 +1,31 @@
 /*styles.css */
 
 
-h1 {
-    color: red;
+* {
+    color: #fbfefe;
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
+
+.index-header{
+    color: blue;
+}
+
+.rezepte-header {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+div {
+    color: purple;
+}
+
+.zurueck-zu-index{
+    background-color: #f931db;
+    color: rgb(252, 251, 251);
+    font-weight: bold;
+}
+
